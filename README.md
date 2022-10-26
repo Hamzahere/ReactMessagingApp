@@ -27,37 +27,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
@@ -66,3 +37,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+![MessengerApp4](https://user-images.githubusercontent.com/33956390/197983016-44ed15bc-30![MessengerApp5](https://user-images.githubusercontent.com/33956390/197983042-33d9a453-e0ae-4caf-826d-3b479730525f.PNG)
+3e-48ae-a361-aa7c4870f710.PNG)
+
+![MessengerApp1](https://user-images.githubuserconten![MessengerApp2](https://user-images.githubusercontent.com/33956390/197982869-e9205c26-3f6f-4cf2-bf89-efbf986807c7.PNG)![MessengerApp3](https://user-images.githubusercontent.com/33956390/197982984-192dae69-35c3-456e-bde2-3dac5fd05f52.PNG)
+
+t.com/33956390/197982813-c8a7ef6d-90cc-46c9-8431-e37e61582a65.PNG)
+
